@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Darius and I'm a software engineer, from Romania 🇷🇴</h2>
 
 ###
 
@@ -44,18 +44,14 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BardaK03/BardaK03/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BardaK03/BardaK03/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BardaK03/BardaK03/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=BardaK03&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=BardaK03&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=BardaK03.BardaK03&left_color=deeppink&right_color=blueviolet&left_text=Stalkers"  />
 </div>
 
 ###
